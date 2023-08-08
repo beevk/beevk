@@ -1,5 +1,5 @@
 <h1>
-  Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+  Hi there <img src="https://raw.githubusercontent.com/beevk/beevk/main/resources/Hi.gif" width="30px">
 </h1>
 
 <div>
