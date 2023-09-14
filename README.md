@@ -4,8 +4,8 @@
 
 <div>
   <p>
-    Full-stack Developer with a strong focus on backend development. Proficient in NodeJS, ExpressJS, TypeScript, PostgreSQL, MongoDB, and AWS. I specialize in architecting robust APIs and optimizing database queries to ensure efficient and seamless user experiences. 
-    I enjoy crafting backend solutions that support scalable web applications, leveraging my expertise in backend technologies and best practices.
+    Full-stack Developer with a strong focus on backend development. Proficient in NodeJS, ExpressJS, TypeScript, PostgreSQL, MongoDB, ReactJS and AWS. I specialize in architecting robust APIs and optimizing database queries to ensure efficient and seamless user experiences. 
+    I enjoy crafting solutions that support scalable web applications, leveraging my expertise in backend technologies and best practices.
   </p>
 </div>
 
