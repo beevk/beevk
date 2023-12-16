@@ -35,6 +35,9 @@
   <a target="_blank" href="https://www.prisma.io/">
     <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white" />
   </a>
+  <a target="_blank" href="https://go.dev/">
+    <img alt="Prisma" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  </a>
 </div>
 
 <div>
@@ -44,9 +47,9 @@
   <a target="_blank" href="https://redux.js.org/">
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   </a>
-  <a target="_blank" href="https://react-query.tanstack.com/">
-    <img alt="React Query"
-      src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white" />
+  <a target="_blank" href="https://tanstack.com/query/latest/">
+    <img alt="Tanstack Query"
+      src="https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=flat&logo=tanstack%20query&logoColor=white" />
   </a>
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" />
@@ -58,6 +61,24 @@
     <img alt="Tailwind CSS"
       src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
   </a>
+</div>
+
+
+<div>
+  <a target="_blank" href="https://jestjs.io/">
+    <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://testing-library.com/">
+    <img alt="Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=flat&logo=testing-library&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://mochajs.org/">
+    <img alt="Mocha"
+      src="https://img.shields.io/badge/mocha.js-323330?style=flat&logo=mocha&logoColor=White" />
+  </a>
+  <a target="_blank" href="https://github.com/stretchr/testify">
+    <img alt="Testify" src="https://img.shields.io/badge/testify-8A2BE2?style=flat" />
+  </a>
+  
 </div>
 
 <div>
