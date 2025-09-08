@@ -4,8 +4,8 @@
 
 <div>
   <p>
-    Full-stack Developer with a strong focus on backend development. Proficient in NodeJS, ExpressJS, TypeScript, PostgreSQL, MongoDB, ReactJS and AWS. I specialize in architecting robust APIs and optimizing database queries to ensure efficient and seamless user experiences. 
-    I enjoy crafting solutions that support scalable web applications, leveraging my expertise in backend technologies and best practices.
+    Full-stack engineer who builds and leads products from idea to production. I work across React and Next.js on the front end, Node.js and Go for the backend services, PostgreSQL and MongoDB for data, and AWS and Cloudflare for delivery. I focus on clean APIs, performance, and reliable CI/CD.
+    I collaborate closely with product and design, and I invest in tooling, tests, and documentation so teams can scale with confidence.
   </p>
 </div>
 
@@ -71,14 +71,6 @@
   <a target="_blank" href="https://testing-library.com/">
     <img alt="Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=flat&logo=testing-library&logoColor=white" />
   </a>
-  <a target="_blank" href="https://mochajs.org/">
-    <img alt="Mocha"
-      src="https://img.shields.io/badge/mocha.js-323330?style=flat&logo=mocha&logoColor=White" />
-  </a>
-  <a target="_blank" href="https://github.com/stretchr/testify">
-    <img alt="Testify" src="https://img.shields.io/badge/testify-8A2BE2?style=flat" />
-  </a>
-  
 </div>
 
 <div>
