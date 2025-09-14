@@ -4,8 +4,10 @@
 
 <div>
   <p>
-    Full-stack engineer who builds and leads products from idea to production. I work across React and Next.js on the front end, Node.js and Go for the backend services, PostgreSQL and MongoDB for data, and AWS and Cloudflare for delivery. I focus on clean APIs, performance, and reliable CI/CD.
-    I collaborate closely with product and design, and I invest in tooling, tests, and documentation so teams can scale with confidence.
+    I'm a full-stack engineer who builds and leads products from concept to production. I work with React and Next.js on the front end, and Node.js and Go for backend services. I use PostgreSQL and MongoDB for data storage, and AWS and Cloudflare for delivery.
+  </p>
+  <p>
+    I focus on clean APIs, high performance, and reliable CI/CD. I collaborate closely with product and design teams, and I invest in tooling, testing, and documentation to help teams scale with confidence.
   </p>
 </div>
 <!--
@@ -24,7 +26,7 @@
       src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
   </a>
   <a target="_blank" href="https://expressjs.com/">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-80a50e?style=flat&logoColor=white" />
+    <img alt="Express.js" src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white" />
   </a>
   <a target="_blank" href="https://nodejs.org/">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
@@ -36,6 +38,9 @@
   <a target="_blank" href="https://www.prisma.io/">
     <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white" />
   </a>
+  <a target="_blank" href="https://orm.drizzle.team/">
+    <img alt="Prisma" src="https://img.shields.io/badge/drizzle-C5F74F?style=flat&logo=drizzle&logoColor=white" />
+  </a>
   <a target="_blank" href="https://go.dev/">
     <img alt="Prisma" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
   </a>
@@ -43,17 +48,20 @@
 
 <div>
   <a target="_blank" href="https://reactjs.org/">
-    <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
+    <img alt="React.js" src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://nextjs.org/">
+    <img alt="React.js" src="https://img.shields.io/badge/nextjs-000000?style=flat&logo=Next.js&logoColor=white" />
   </a>
   <a target="_blank" href="https://redux.js.org/">
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   </a>
   <a target="_blank" href="https://tanstack.com/query/latest/">
     <img alt="Tanstack Query"
-      src="https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=flat&logo=tanstack%20query&logoColor=white" />
+      src="https://img.shields.io/badge/Tanstack%20Query-FF4154?style=flat&logo=reactQuery&logoColor=white" />
   </a>
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?&style=flat&logo=css&logoColor=white" />
   </a>
   <a target="_blank" href="https://sass-lang.com/">
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
@@ -67,10 +75,19 @@
 
 <div>
   <a target="_blank" href="https://jestjs.io/">
-    <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white" />
+    <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" />
   </a>
   <a target="_blank" href="https://testing-library.com/">
-    <img alt="Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=flat&logo=testing-library&logoColor=white" />
+    <img alt="Testing Library" src="https://img.shields.io/badge/Testing%20Library-E33332?style=flat&logo=testing-library&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://github.com/stretchr/testify">
+    <img alt="Testify" src="https://img.shields.io/badge/Testify-323330?style=flat&logo=testify&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://playwright.dev/">
+    <img alt="Testing Library" src="https://img.shields.io/badge/Playwright-45BA4B?style=flat&logo=playwright&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://artillery.io/">
+    <img alt="Testing Library" src="https://img.shields.io/badge/Artillery-323330?style=flat&logo=artillery&logoColor=white" />
   </a>
 </div>
 
@@ -109,19 +126,19 @@
   </a>
   <a target="_blank" href="https://aws.amazon.com/">
     <img alt="Amazon"
-      src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+      src="https://img.shields.io/badge/AWS-161D26?style=flat&logo=amazon-aws&logoColor=white" />
   </a>
   <a target="_blank" href="https://azure.microsoft.com/">
     <img alt="Microsoft Azure"
-      src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" />
+      src="https://img.shields.io/badge/azure-006DC1.svg?style=flat&logo=microsoftazure&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.cloudflare.com/">
     <img alt="Cloudflare"
       src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" />
   </a>
 </div>
-
-<p>Let's collaborate on exciting projects and build amazing web applications together!</p>
+<br />
+<p>Let's collaborate on exciting projects and build amazing apps together!</p>
 
 <div>
   📫 Reach me out <a target="_blank" href="https://www.linkedin.com/in/beevk"><b>@beevk</b></a><br/>
