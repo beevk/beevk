@@ -8,10 +8,11 @@
     I collaborate closely with product and design, and I invest in tooling, tests, and documentation so teams can scale with confidence.
   </p>
 </div>
-
+<!--
 <p align="right">
   <img alt="status" src="https://github-stats-alpha.vercel.app/api?username=beevk&cc=000&tc=fff&ic=fff&bc=000" align="right" />
 </p>
+-->
 
 <div align="left">
   <a target="_blank" href="https://www.typescriptlang.org/">
